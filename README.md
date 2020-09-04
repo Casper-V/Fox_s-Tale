@@ -1,5 +1,5 @@
 # Fox_s-Tale
-Fully function 2D platform game made using C# scripts in Unity
+Fully functional 2D platform game made using C# scripts in Unity
 
 Contains five levels. Based on an online course by James Doyle.
 
