@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Platform
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - Platform
+  - Stompbox
+  - Bullets
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Achtergrond
+    uniqueID: 2324844949
+    locked: 0
+  - name: Wereld
+    uniqueID: 3904881679
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Effects
+    uniqueID: 3012714191
+    locked: 0
+  - name: Pickups
+    uniqueID: 3469904543
+    locked: 0
+  - name: Enemies
+    uniqueID: 3165081787
+    locked: 0
+  - name: Speler
+    uniqueID: 133849653
+    locked: 0
